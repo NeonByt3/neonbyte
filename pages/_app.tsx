@@ -15,7 +15,7 @@ const { provider, chains } = configureChains(
 )
 
 const { connectors } = getDefaultWallets({
-  appName: "replace.this",
+  appName: "NeonByte",
   chains,
 })
 
